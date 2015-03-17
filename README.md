@@ -1,6 +1,6 @@
 # CSGames 2015 - Database
 
-#### English [below](#) ↓
+#### -- English [below](#csgames-2015---database-1) ↓
 
 Ce repo GitHub contient la compétition de **base de données** des [CSGames 2015](http://csgames.org/2015/).
 
@@ -18,9 +18,9 @@ Une fois l'installation complétée, les compétiteurs pourront rédiger les req
 
 Les documents fournis aux compétiteurs sont disponibles ici:
 
-- Examen théorique ([français](#), [anglais](#))
-- Examen pratique ([français](#), [anglais](#))
-- Structure de la DB ([anglais](#))
+- Examen théorique ([français](https://github.com/ebelair/CSG15-DB/blob/master/documents/CSG15-DB-Pratique.FR.md), [anglais](https://github.com/ebelair/CSG15-DB/blob/master/documents/CSG15-DB-Pratique.EN.md))
+- Examen pratique ([français](https://github.com/ebelair/CSG15-DB/blob/master/documents/CSG15-DB-Theorique.FR.md), [anglais](https://github.com/ebelair/CSG15-DB/blob/master/documents/CSG15-DB-Theorique.EN.md))
+- Structure de la DB ([anglais](https://github.com/ebelair/CSG15-DB/blob/master/documents/CSG15-DB-MusicBrainz.md))
 
 ## Fonctionnement
 
@@ -43,13 +43,11 @@ Le script retourne si les résultats obtenus pour chacune des requêtes sont ide
 ## À propos
 La compétition a été développée par Émile Bélair, gradué en génie informatique à l'Université de Sherbrooke. Vous pouvez aussi me suivre sur [Facebook](https://fb.me/ebelair), [GitHub](http://github.com/ebelair) et [LinkedIn](http://ca.linkedin.com/in/emilebelair/fr). N'hésitez pas à m'écrire pour toute question, commentaire ou suggestion!
 
- 
 ---
- 
 
 # CSGames 2015 - Database
 
-#### Français [ci-haut](#) ↑
+#### -- Français [ci-haut](#csgames-2015---database) ↑
 
 This GitHub repo contains the **database** competition of the [CSGames 2015](http://csgames.org/2015/).
 
@@ -67,9 +65,9 @@ Once the installation is complete, competitors can write their queries using [pg
 
 The following documents are given to the competitors:
 
-- Theorical exam ([French](#), [English](#))
-- Practical exam ([French](#), [English](#))
-- DB structure ([English](#))
+- Theorical Exam ([English](https://github.com/ebelair/CSG15-DB/blob/master/documents/CSG15-DB-Pratique.EN.md), [French](https://github.com/ebelair/CSG15-DB/blob/master/documents/CSG15-DB-Pratique.FR.md))
+- Practical Exam ([English](https://github.com/ebelair/CSG15-DB/blob/master/documents/CSG15-DB-Theorique.EN.md), [French](https://github.com/ebelair/CSG15-DB/blob/master/documents/CSG15-DB-Theorique.FR.md))
+- DB Structure ([English](https://github.com/ebelair/CSG15-DB/blob/master/documents/CSG15-DB-MusicBrainz.md))
 
 ## Usage
 
@@ -91,4 +89,4 @@ The scrit returns whether the obtained results of each query are identical the t
 
 
 ## About
-This competition was developed by Émile Bélair, graduate of Université de Sherbrooke in Computer Engineering. You can follow me on [Facebook](http://fb.me/ebelair), [GitHub](http://github.com/ebelair) and [LinkedIn](http://ca.linkedin.com/in/emilebelair/en). Please don't hesitate to contact me for any question, comment or suggestion!
+This competition was developed by Émile Bélair, graduate of Université de Sherbrooke in Computer Engineering. You can follow me on [Facebook](http://fb.me/ebelair), [GitHub](http://github.com/ebelair) and [LinkedIn](http://ca.linkedin.com/in/emilebelair/en). Please don't hesitate to contact me for any questions, comments or suggestions!
