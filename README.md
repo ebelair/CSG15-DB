@@ -6,7 +6,7 @@ Ce repo GitHub contient la compétition de **base de données** des [CSGames 201
 
 ## Installation
 
-La compétition se déroule dans un environnement UNIX avec une instance locale de PostgreSQL, sur laquelle se retrouve une copie la base de données de [MusicBrainz](http://musicbrainz.org/).
+La compétition se déroule dans un environnement UNIX avec une instance locale de PostgreSQL, sur laquelle se retrouve une copie la base de données de [MusicBrainz](http://musicbrainz.org/) (voir  [documentation](http://musicbrainz.org/doc/MusicBrainz_Database)).
 
 Pour répliquer l'environnement, il s'agit simplement de suivre toutes les étapes indiquées sur la page suivante:
 
@@ -53,7 +53,7 @@ This GitHub repo contains the **database** competition of the [CSGames 2015](htt
 
 ## Installation
 
-The competition takes place in a UNIX environment with a local instance of PostgreSQL, on which a copy of the [MusicBrainz](http://musicbrainz.org/) database can be found.
+The competition takes place in a UNIX environment with a local instance of PostgreSQL, on which a copy of the [MusicBrainz](http://musicbrainz.org/) database can be found (see [documentation](http://musicbrainz.org/doc/MusicBrainz_Database)).
 
 To replicate the environment, you only need to follow the steps indicated here:
 
