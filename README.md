@@ -18,8 +18,8 @@ Une fois l'installation complétée, les compétiteurs pourront rédiger les req
 
 Les documents fournis aux compétiteurs sont disponibles ici:
 
-- Examen théorique ([français](https://github.com/ebelair/CSG15-DB/blob/master/documents/CSG15-DB-Pratique.FR.md), [anglais](https://github.com/ebelair/CSG15-DB/blob/master/documents/CSG15-DB-Pratique.EN.md))
-- Examen pratique ([français](https://github.com/ebelair/CSG15-DB/blob/master/documents/CSG15-DB-Theorique.FR.md), [anglais](https://github.com/ebelair/CSG15-DB/blob/master/documents/CSG15-DB-Theorique.EN.md))
+- Examen théorique ([français](https://github.com/ebelair/CSG15-DB/blob/master/documents/CSG15-DB-Theorique.FR.md), [anglais](https://github.com/ebelair/CSG15-DB/blob/master/documents/CSG15-DB-Theorique.EN.md))
+- Examen pratique ([français](https://github.com/ebelair/CSG15-DB/blob/master/documents/CSG15-DB-Pratique.FR.md), [anglais](https://github.com/ebelair/CSG15-DB/blob/master/documents/CSG15-DB-Pratique.EN.md))
 - Structure de la DB ([anglais](https://github.com/ebelair/CSG15-DB/blob/master/documents/CSG15-DB-MusicBrainz.md))
 
 ## Fonctionnement
